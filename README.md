@@ -1,7 +1,6 @@
-# UnityTemplateRepository
-Unity Project template Repository
+# Shpere for Draw Line 
 
-# Demo
+Unity実行時に擬似的なSphereをDrawLineを使って描画するサンプルです。
 
 # requirements
-* Unity 2022.2.0f1
+* Unity 2022.3.27f1
